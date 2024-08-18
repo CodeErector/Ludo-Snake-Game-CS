@@ -67,6 +67,7 @@ namespace LudoSnakeGame
 
             void checkposition(Player player)
             {
+                //ladder
                 if (player.position == 4)
                 {
                     player.position = 35;
@@ -75,6 +76,7 @@ namespace LudoSnakeGame
                 {
                     player.position = 74;
                 }
+                //snake
                 else if (player.position == 52)
                 {
                     player.position = 3;
@@ -96,25 +98,11 @@ namespace LudoSnakeGame
                     }
                     else if (player1.position == i)
                     {
-                        if (i < 10)
-                        {
-                            Console.Write($"{i}{player1.symbol}");
-                        }
-                        else
-                        {
-                            Console.Write($"{i}{player1.symbol}");
-                        }
+                        Console.Write($"{i}{player1.symbol}");
                     }
                     else if (player2.position == i)
                     {
-                        if (i < 10)
-                        {
-                            Console.Write($"{i}{player2.symbol}");
-                        }
-                        else
-                        {
-                            Console.Write($"{i}{player2.symbol}");
-                        }
+                        Console.Write($"{i}{player2.symbol}");
                     }
                     else if (i < 10)
                     {
