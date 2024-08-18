@@ -1,0 +1,14 @@
+C:\Users\LabPC1\source\repos\LudoSnakeGame\bin\Debug\net8.0\LudoSnakeGame.exe
+C:\Users\LabPC1\source\repos\LudoSnakeGame\bin\Debug\net8.0\LudoSnakeGame.deps.json
+C:\Users\LabPC1\source\repos\LudoSnakeGame\bin\Debug\net8.0\LudoSnakeGame.runtimeconfig.json
+C:\Users\LabPC1\source\repos\LudoSnakeGame\bin\Debug\net8.0\LudoSnakeGame.dll
+C:\Users\LabPC1\source\repos\LudoSnakeGame\bin\Debug\net8.0\LudoSnakeGame.pdb
+C:\Users\LabPC1\source\repos\LudoSnakeGame\obj\Debug\net8.0\LudoSnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LabPC1\source\repos\LudoSnakeGame\obj\Debug\net8.0\LudoSnakeGame.AssemblyInfoInputs.cache
+C:\Users\LabPC1\source\repos\LudoSnakeGame\obj\Debug\net8.0\LudoSnakeGame.AssemblyInfo.cs
+C:\Users\LabPC1\source\repos\LudoSnakeGame\obj\Debug\net8.0\LudoSnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\LabPC1\source\repos\LudoSnakeGame\obj\Debug\net8.0\LudoSnakeGame.dll
+C:\Users\LabPC1\source\repos\LudoSnakeGame\obj\Debug\net8.0\refint\LudoSnakeGame.dll
+C:\Users\LabPC1\source\repos\LudoSnakeGame\obj\Debug\net8.0\LudoSnakeGame.pdb
+C:\Users\LabPC1\source\repos\LudoSnakeGame\obj\Debug\net8.0\LudoSnakeGame.genruntimeconfig.cache
+C:\Users\LabPC1\source\repos\LudoSnakeGame\obj\Debug\net8.0\ref\LudoSnakeGame.dll
